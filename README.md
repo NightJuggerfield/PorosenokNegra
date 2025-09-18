@@ -1,4 +1,16 @@
 <div align="center">
+
+# PassengerAPI plugin version with thread safety fix
+
+# PorosenokNegra may stop receiving updates. Check the original repository.
+</div>
+  
+ 
+ 
+
+
+
+<div align="center">
 <a href="https://discord.gg/2UTkYj26B4" target="_blank"><img src="https://img.shields.io/badge/Discord_Server-7289DA?style=flat&logo=discord&logoColor=white" alt="Join Discord Server" style="border-radius: 15px; height: 20px;"></a>  
 </div>
 
